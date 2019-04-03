@@ -35,6 +35,5 @@ public class PerformanceFilter implements Filter {
     }
 
     public void destroy() {
-
     }
 }

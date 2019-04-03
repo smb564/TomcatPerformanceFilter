@@ -38,4 +38,4 @@ Then go to the corresponding web.xml (usually located at <code>{tomcat-directory
 ```
 
 
-Now you should be good to go!
+Now it should be good to go!
